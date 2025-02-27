@@ -46,7 +46,7 @@ int main()
 	delete[] tmb;
 	//Dinamikus tömb felszabadításakor fontos a [] használata, mert a tömb összes elemét felszabadítja.
 
-	//Döntsük el, van-e értelme a következő programrészletnek! Van.e benne hiba? A tömb most statikus!
+	//Döntsük el, van-e értelme a következő programrészletnek! Van-e benne hiba? A tömb most statikus!
 	int tomb[5] = { 1, 2, 3, 4, 5 };
 	int i = 3;
 	cout << tomb[i] << endl;
