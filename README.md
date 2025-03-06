@@ -13,3 +13,8 @@ Gyakorláshoz feltöltöttem az [1. labor](https://github.com/Gyuri02917/Program
  
  >[!WARNING]
  Ha Visual Studiot használ a futtatáshoz, előfordulhat, hogy nem engedi futtatni 'Stack Overflow' hibával. Ebben az esetben az órán is bemutatott módon állítsa a verem méretét nagyobbra. Például: `/F 1073741824` Ezt megteheti a Project > Properties > C/C++ > Command Line > Additional Options >  /F 1073741824. Ezzel ~1Gb stack méretet adunk a futtatáshoz. Lehet ettől kisebb méretet is használni, ez egy eléggé nagy túlzás, de garantált a futás. Valamint a `Ctrl+F5` álltali futtatás javasolt, mert `F5` esetén nem mindig fogadja el a módosított stack méretet.
+
+## 3. labor
+ A harmadik labor alkalmával megtanultuk a függvények típusait, az argumentumok és paraméterek jelentését, valamint ezek használatát. Ezeken felül gyakoroltuk a dinamikus tárkezelést.
+ >[!NOTE]
+ A `void` típusú függvénynek nem szabad visszatérési értéket `return` adni! Hibát fog jelezni a fordító! Ezen felül minden más tanult típushoz szükséges a `return` ág, mint visszatérési érték!
