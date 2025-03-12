@@ -18,3 +18,6 @@ Gyakorláshoz feltöltöttem az [1. labor](https://github.com/Gyuri02917/Program
  A harmadik labor alkalmával megtanultuk a függvények típusait, az argumentumok és paraméterek jelentését, valamint ezek használatát. Ezeken felül gyakoroltuk a dinamikus tárkezelést.
  >[!NOTE]
  A `void` típusú függvénynek nem szabad visszatérési értéket `return` adni! Hibát fog jelezni a fordító! Ezen felül minden más tanult típushoz szükséges a `return` ág, mint visszatérési érték!
+ 
+## 4. labor
+ A 4. labor alkalmával megnéztük a struktúra típusú függvényt, valamint annak működését. Gyakoroltuk a Hanoi-tornya feladat által a rekurzív függvényhívást, és csináltunk egy fájlkezeléses és egy dinamikus tömbkezeléses feladatot gyakorlásképpen.

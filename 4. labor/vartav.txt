@@ -1,0 +1,10 @@
+Kecskemet 80
+Szeged 160
+Pecs 200
+Baja 160
+Gyor 140
+Miskolc 260
+Vac 40
+Cegled 70
+Sopron 300
+Eger 220
