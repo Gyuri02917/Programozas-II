@@ -21,3 +21,6 @@ Gyakorláshoz feltöltöttem az [1. labor](https://github.com/Gyuri02917/Program
  
 ## 4. labor
  A 4. labor alkalmával megnéztük a struktúra típusú függvényt, valamint annak működését. Gyakoroltuk a Hanoi-tornya feladat által a rekurzív függvényhívást, és csináltunk egy fájlkezeléses és egy dinamikus tömbkezeléses feladatot gyakorlásképpen.
+ 
+ ## 5. labor
+ Az 5. labor alkalmával tanultunk a bináris fájlkezelésről, az inline függvényről valamint a függvénytúlterhelésről. Ezek után elkészítettünk egy LottoHuzas feladatot, amelynek a lényege, hogy random generáljunk számokat a felhasználó által megadott lottó típusához úgy, hogy ne legyen ismétlődés a generált számok között.
