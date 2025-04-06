@@ -1,0 +1,6 @@
+5
+2025-03-01 Magellan 2
+2025-03-02 Median 3
+2025-03-03 Magellan 5
+2025-03-04 Median 4
+2025-03-05 Median 1

@@ -27,3 +27,6 @@ Gyakorláshoz feltöltöttem az [1. labor](https://github.com/Gyuri02917/Program
 
 ## 6. labor
  A 6. labor alkalmával elkezdtük az OOP programozást bevezetni. Szó esett az adattagok típusairól, valamint azok viselkedéséről. Két példát néztünk meg, először mindent publikus adattaggal oldottunk meg, majd pedig privát és publikus adattagokkal.
+ 
+## 7. labor
+ A 7. laboron csináltunk egy gyakorlást a 6. laborra visszautalva, valamint megismerkedtünk az öröklődés fogalmával.
