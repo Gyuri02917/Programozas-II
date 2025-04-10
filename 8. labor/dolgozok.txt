@@ -1,0 +1,10 @@
+Nagy_Janos 201 Konyvtaros
+Kiss_Eszter 202 Adminisztrator
+Molnar_Bela 203 Asszisztens
+Toth_Ildiko 204 Archivumvezeto
+Varga_Zoltan 205 Szaktanacsado
+Szabo_Anna 206 Gyermekreszleg_vezeto
+Horvath_Maria 207 Irodalomkutato
+Farkas_Istvan 208 Technikusi_asszisztens
+Balazs_Emese 209 PR_menedzser
+Fekete_Gabor 210 Digitalizacios_specialista

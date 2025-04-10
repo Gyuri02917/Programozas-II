@@ -30,3 +30,6 @@ Gyakorláshoz feltöltöttem az [1. labor](https://github.com/Gyuri02917/Program
  
 ## 7. labor
  A 7. laboron csináltunk egy gyakorlást a 6. laborra visszautalva, valamint megismerkedtünk az öröklődés fogalmával.
+ 
+## 8. labor
+ A 8. labor alkalmával megismerkedtünk egy valós életbeli példán keresztül az öröklődéssel, valamint gyakoroltuk az eddig tanultakat.

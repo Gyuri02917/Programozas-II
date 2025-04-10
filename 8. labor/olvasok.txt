@@ -1,0 +1,20 @@
+Kovacs_Bela 101 Az_ember_tragediaja
+Szabo_Agnes 102 Egri_csillagok Legy_jo_mindhalalig
+Hegedus_Istvan 103 Tuskevar
+Nagy_Eva 104 Micimacko
+Kerekes_Zsolt 105 Harom_test_problemaja
+Kiss_Rita 106 Tetovalas_tortenete
+Papp_Andras 107 Szaz_ev_magany Homokvar
+Horvath_Gabor 108 Lathatatlan_emlekkonyv
+Balogh_Anita 109 Biborherceg Vizsosegi_eletmod
+Mate_Istvan 110 Kozmosz_rendje
+Hegedus_Aron 111 Hamis_emlekek
+Toth_Marianna 112 Az_orokzold_titka
+Simon_Zsuzsanna 113 Az_ido_rabjai Regenyekkel_valo_megismerkedes
+Molnar_Istvan 114 Teli_alom A_zold_kunyho
+Varga_Iren 115 Felhok_kergetese Fagyos_rejtely
+Kerekes_Zsofia 116 A_fold_rejtelyei Repulo_csoda
+Balogh_Anita 117 Tenger_melysege Kozmosz_titkai
+Kiss_Tamas 118 Kozmosz_rendje Az_idok_horizontja
+Szabo_Adam 119 A_viz_hatasa
+Fekete_Borbala 120 A_hold_titkai A_hegy_szive
