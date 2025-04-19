@@ -33,3 +33,6 @@ Gyakorláshoz feltöltöttem az [1. labor](https://github.com/Gyuri02917/Program
  
 ## 8. labor
  A 8. labor alkalmával megismerkedtünk egy valós életbeli példán keresztül az öröklődéssel, valamint gyakoroltuk az eddig tanultakat.
+
+## 9. labor
+ A 9. laboron készítettetek el egy ZH-val megegyező gyakorló feladatsort. Töltöttem fel egy otthoni gyakorlásra szánt feladatot is.
