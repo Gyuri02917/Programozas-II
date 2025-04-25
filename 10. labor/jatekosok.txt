@@ -1,0 +1,7 @@
+6
+Kiss:1990:kapus:10:0:0
+Nagy:2002:vedo:7:3:1
+Kovacs:2000:csatar:9:8:5
+Simon:1999:szelso:7:4:1
+Varga:1985:vedo:9:3:2
+Toth:1998:csatar:8:6:5

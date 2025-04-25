@@ -36,3 +36,6 @@ Gyakorláshoz feltöltöttem az [1. labor](https://github.com/Gyuri02917/Program
 
 ## 9. labor
  A 9. laboron készítettetek el egy ZH-val megegyező gyakorló feladatsort. Töltöttem fel egy otthoni gyakorlásra szánt feladatot is.
+ 
+## 10. labor
+ A 10. laboron készültünk a ZH-ra, két mintafeladat megoldásával.

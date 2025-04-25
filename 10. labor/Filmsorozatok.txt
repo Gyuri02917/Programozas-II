@@ -1,0 +1,5 @@
+Csernobil;1;5;45;5500
+Maffiozok;6;13;35;15000
+Az elit alakulat;1;10;45;7800
+Tronok harca;8;10;44;18000
+Agymenok;12;17;30;35000
