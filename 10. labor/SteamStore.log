@@ -1,0 +1,81 @@
+GameID,Name,ReviewScore,ReviewCount,Price,Discounted
+1,Elden Ring,9.5,120000,59.99,1
+2,Cyberpunk 2077,8.0,95000,29.99,1
+3,The Witcher 3,9.8,200000,39.99,0
+4,Stardew Valley,9.3,180000,14.99,1
+5,GTA V,9.0,300000,19.99,1
+6,Red Dead Redemption 2,9.7,220000,49.99,0
+7,Hollow Knight,9.6,110000,14.99,1
+8,DOOM Eternal,9.1,85000,39.99,1
+9,Portal 2,9.9,400000,9.99,0
+10,Terraria,9.5,250000,9.99,1
+11,Celeste,9.4,97000,19.99,1
+12,Valheim,8.8,65000,19.99,1
+13,Among Us,7.9,500000,4.99,1
+14,Factorio,9.6,80000,30.00,0
+15,Dark Souls III,9.3,130000,39.99,1
+16,RimWorld,9.4,130000,29.99,0
+17,Half-Life: Alyx,9.7,100000,59.99,1
+18,Subnautica,9.2,120000,29.99,1
+19,No Man's Sky,8.5,180000,29.99,1
+20,Don't Starve,8.9,90000,14.99,1
+21,Metro Exodus,8.6,70000,24.99,1
+22,XCOM 2,8.8,65000,19.99,1
+23,Civilization VI,9.0,200000,39.99,1
+24,Divinity: Original Sin 2,9.3,75000,45.00,1
+25,Fallout 4,8.7,220000,29.99,1
+26,Fallout: New Vegas,9.2,300000,19.99,0
+27,The Binding of Isaac,9.0,170000,15.99,1
+28,Slay the Spire,9.1,120000,24.99,1
+29,Dead Cells,9.4,110000,24.99,1
+30,Total War: Warhammer II,9.0,85000,49.99,1
+31,Dota 2,7.8,600000,0.00,1
+32,League of Legends,8.0,700000,0.00,1
+33,CS:GO,8.5,500000,0.00,1
+34,Rocket League,8.9,450000,19.99,1
+35,Monster Hunter World,9.2,180000,39.99,1
+36,Resident Evil Village,8.8,75000,49.99,1
+37,Star Wars: Jedi Fallen Order,8.6,60000,39.99,1
+38,Hades,9.7,95000,24.99,1
+39,Death Stranding,9.0,55000,39.99,1
+40,Sea of Thieves,8.5,400000,39.99,1
+41,Warframe,8.2,500000,0.00,1
+42,ARK: Survival Evolved,7.9,280000,29.99,1
+43,Rust,8.3,220000,39.99,1
+44,Escape from Tarkov,8.8,70000,50.00,0
+45,Titanfall 2,9.5,80000,19.99,1
+46,Destiny 2,8.4,350000,0.00,1
+47,Borderlands 3,8.5,65000,29.99,1
+48,Diablo III,8.0,90000,39.99,1
+49,Warhammer: Vermintide 2,8.9,55000,29.99,1
+50,Left 4 Dead 2,9.1,320000,9.99,0
+51,Payday 2,8.5,270000,9.99,1
+52,The Elder Scrolls V: Skyrim,9.7,450000,39.99,0
+53,Final Fantasy XIV,9.4,300000,59.99,1
+54,Minecraft,9.8,1000000,29.99,1
+55,Kerbal Space Program,9.2,110000,29.99,0
+56,Tropico 6,8.7,50000,44.99,1
+57,Baldur's Gate 3,9.9,70000,59.99,1
+58,Planet Zoo,8.8,65000,39.99,1
+59,Microsoft Flight Simulator,9.0,50000,59.99,1
+60,Euro Truck Simulator 2,8.6,75000,24.99,1
+61,Cities: Skylines,8.7,90000,29.99,1
+62,Phasmophobia,8.5,65000,13.99,1
+63,Graveyard Keeper,8.4,50000,14.99,1
+64,Raft,8.8,45000,19.99,1
+65,BeamNG.drive,8.9,60000,24.99,1
+66,Surviving Mars,8.7,30000,24.99,1
+67,Inscryption,9.3,40000,19.99,1
+68,Outlast,8.5,75000,19.99,1
+69,The Forest,8.8,80000,19.99,1
+70,Shadow of the Tomb Raider,8.6,65000,39.99,1
+71,Subnautica: Below Zero,8.9,50000,29.99,1
+72,Far Cry 5,8.7,75000,39.99,1
+73,Superhot,9.0,70000,24.99,1
+74,Hitman 3,9.2,50000,59.99,1
+75,Nier Automata,9.5,85000,39.99,1
+76,Cuphead,9.6,100000,19.99,1
+77,Mass Effect Legendary Edition,9.3,55000,59.99,1
+78,The Outer Worlds,8.7,60000,39.99,1
+79,Control,8.6,45000,29.99,1
+80,Hellblade: Senua's Sacrifice,8.9,40000,29.99,1
