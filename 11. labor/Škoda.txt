@@ -1,0 +1,101 @@
+CarID,Model,Year,Price,FuelType,IsElectric
+1,Skoda 120,1976,120000,Benzin,0
+2,Skoda Felicia,1994,450000,Benzin,0
+3,Skoda Favorit,1987,380000,Benzin,0
+4,Skoda Fabia,2001,900000,Benzin/Dizel,0
+5,Skoda Octavia,1999,1500000,Benzin/Dizel,0
+6,Skoda Superb,2002,2500000,Benzin/Dizel,0
+7,Skoda Rapid,2013,3000000,Benzin,0
+8,Skoda Kodiaq,2018,7500000,Benzin/Dizel,0
+9,Skoda Enyaq,2021,12500000,Elektromos,1
+10,Skoda Citigo,2017,2800000,Elektromos/Benzin,1/0
+11,Skoda Roomster,2006,2200000,Benzin/Dizel,0
+12,Skoda Yeti,2009,3200000,Benzin/Dizel,0
+13,Skoda 1000MB,1964,200000,Benzin,0
+14,Skoda 110R,1970,500000,Benzin,0
+15,Skoda Superb,2015,8500000,Benzin/Dizel,0
+16,Skoda Kamiq,2019,6000000,Benzin,0
+17,Skoda Scala,2020,5500000,Benzin,0
+18,Skoda Fabia,2023,4700000,Benzin/Dizel,0
+19,Skoda Octavia RS,2022,12500000,Benzin/Dizel,0
+20,Skoda Enyaq RS,2024,16500000,Elektromos,1
+21,Skoda 440 Spartak,1957,95000,Benzin,0
+22,Skoda 445 Octavia,1959,110000,Benzin,0
+23,Skoda 100,1969,180000,Benzin,0
+24,Skoda 130,1984,250000,Benzin,0
+25,Skoda Forman,1990,350000,Benzin,0
+26,Skoda Superb iV,2021,13500000,Hibrid,1
+27,Skoda Karoq,2017,6900000,Benzin/Dizel,0
+28,Skoda Fabia Combi,2010,3200000,Benzin/Dizel,0
+29,Skoda Octavia Combi,2018,5800000,Benzin/Dizel,0
+30,Skoda Octavia Tour,2004,1750000,Benzin/Dizel,0
+31,Skoda 105,1976,170000,Benzin,0
+32,Skoda 120 LS,1981,200000,Benzin,0
+33,Skoda Felicia Fun,1999,850000,Benzin,0
+34,Skoda Fabia Monte Carlo,2016,5100000,Benzin,0
+35,Skoda Superb Laurin & Klement,2020,14200000,Benzin/Dizel,0
+36,Skoda Vision X,2025,18500000,Hibrid,1
+37,Skoda Vision RS,2023,12500000,Elektromos,1
+38,Skoda Slavia,2022,9500000,Benzin,0
+39,Skoda Kushaq,2021,7200000,Benzin,0
+40,Skoda Rapid Spaceback,2017,4100000,Benzin,0
+41,Skoda Felicia Pickup,1995,750000,Benzin,0
+42,Skoda Fabia RS,2012,5200000,Benzin,0
+43,Skoda 1100 OHC,1957,2800000,Benzin,0
+44,Skoda 1203,1968,450000,Benzin,0
+45,Skoda Praktik,2007,1800000,Benzin/Dizel,0
+46,Skoda Citigo-e iV,2020,9900000,Elektromos,1
+47,Skoda Enyaq Coupé,2023,14900000,Elektromos,1
+48,Skoda Vision GT,2025,18000000,Elektromos,1
+49,Skoda Superb Scout,2019,12500000,Benzin/Dizel,0
+50,Skoda 1101 Tudor,1946,70000,Benzin,0
+51,Skoda 1102,1948,90000,Benzin,0
+52,Skoda 110L,1975,230000,Benzin,0
+53,Skoda 125,1988,270000,Benzin,0
+54,Skoda Favorit LX,1992,400000,Benzin,0
+55,Skoda Felicia LX,1998,470000,Benzin,0
+56,Skoda Fabia Combi RS,2015,5700000,Benzin,0
+57,Skoda Roomster Scout,2008,2500000,Benzin/Dizel,0
+58,Skoda Yeti Outdoor,2016,5200000,Benzin/Dizel,0
+59,Skoda Karoq Sportline,2021,8500000,Benzin/Dizel,0
+60,Skoda Scala Monte Carlo,2022,6700000,Benzin,0
+61,Skoda Kamiq GT,2023,7200000,Benzin,0
+62,Skoda Octavia iV,2021,13500000,Hibrid,1
+63,Skoda Superb iV Sportline,2024,15500000,Hibrid,1
+64,Skoda Vision S,2025,19000000,Elektromos,1
+65,Skoda Vision D,2011,8400000,Benzin/Dizel,0
+66,Skoda Vision X Hybrid,2025,16000000,Hibrid,1
+67,Skoda Octavia Laurin & Klement,2019,12800000,Benzin/Dizel,0
+68,Skoda Fabia Rally2,2023,9900000,Benzin,0
+69,Skoda 105S,1976,180000,Benzin,0
+70,Skoda Rapid 136,1988,340000,Benzin,0
+71,Skoda Fabia Scout,2011,4900000,Benzin/Dizel,0
+72,Skoda Kodiaq RS,2020,14900000,Benzin/Dizel,0
+73,Skoda Superb Combi,2023,13500000,Benzin/Dizel,0
+74,Skoda Felicia GLX,1996,560000,Benzin,0
+75,Skoda 100 S,1970,220000,Benzin,0
+76,Skoda Octavia Scout,2024,14200000,Benzin/Dizel,0
+77,Skoda 440,1955,100000,Benzin,0
+78,Skoda Roomster Style,2012,3200000,Benzin/Dizel,0
+79,Skoda Vision RS Concept,2022,12500000,Elektromos,1
+80,Skoda Slavia Elegance,2025,9800000,Benzin,0
+81,Skoda Kushaq Monte Carlo,2023,7900000,Benzin,0
+82,Skoda Octavia 1st Gen,1996,1650000,Benzin/Dizel,0
+83,Skoda Superb 1st Gen,2001,2500000,Benzin/Dizel,0
+84,Skoda Favorit 136L,1991,350000,Benzin,0
+85,Skoda Enyaq Laurin & Klement,2025,17000000,Elektromos,1
+86,Skoda Vision E,2025,19500000,Elektromos,1
+87,Skoda Superb Elegance,2013,8900000,Benzin/Dizel,0
+88,Skoda 110R Coupé,1978,450000,Benzin,0
+89,Skoda 125L,1989,310000,Benzin,0
+90,Skoda Felicia Sportline,1997,620000,Benzin,0
+91,Skoda Fabia iV,2025,9200000,Hibrid,1
+92,Skoda 1000MB Deluxe,1966,280000,Benzin,0
+93,Skoda Yeti Sport,2015,5700000,Benzin/Dizel,0
+94,Skoda Citigo Sportline,2019,6900000,Elektromos,1
+95,Skoda Kodiaq Laurin & Klement,2024,15500000,Benzin/Dizel,0
+96,Skoda Scala Electric,2025,14500000,Elektromos,1
+97,Skoda Octavia Touring,2016,7900000,Benzin/Dizel,0
+98,Skoda Superb Electric,2025,18500000,Elektromos,1
+99,Skoda Felicia Cabrio,1998,780000,Benzin,0
+100,Skoda 110L Deluxe,1973,290000,Benzin,0
