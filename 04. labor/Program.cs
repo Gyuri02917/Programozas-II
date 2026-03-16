@@ -4,7 +4,6 @@
     {
         static void Main(string[] args)
         {
-            //Dancs Sándor GEHVJL 2005.04.14 2025.10.15
             Console.WriteLine("Adja meg a fájl elérését:");
             string fajlnev=Console.ReadLine();
             Flotta f = new Flotta();
