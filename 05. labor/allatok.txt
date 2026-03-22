@@ -1,0 +1,5 @@
+﻿101;kutya;Bodri;5;1200;350
+102;macska;Cirmi;3;900;200
+103;kutya;Rex;12;1500;400
+104;nyúl;Pufi;2;500;150
+105;macska;Morzsi;8;850;220
