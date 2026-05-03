@@ -1,0 +1,4 @@
+K;101;Egri_csillagok;regeny;3500;4;500
+F;102;TermeszetVilaga;tudomany;1200;10;12
+K;103;A_Pal_utcai_fiuk;ifjusagi;2800;3;180
+F;104;National_Geographic;ismeretterjeszto;1500;5;24
